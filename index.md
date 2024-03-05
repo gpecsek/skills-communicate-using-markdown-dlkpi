@@ -5,6 +5,11 @@
 ##### Header H5
 ###### Header H6
 
+## Task list
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## Code Examples
 
 ``` Javascript
